@@ -1,0 +1,172 @@
+/**{
+	border: dashed 1px black;
+}*/
+
+.contenedorlogo{
+	margin: 20px 0px;
+}
+
+/*CONTENEDOR MENU*/
+
+.contenedormenu{
+	margin: 15px 0px;
+}
+
+.menu{
+	display: inline-block;
+	font-size: 24px;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+ul{
+	margin: 0px 0px 0px 130px;
+}
+ul>li{
+	top:10px;
+	display: inline-block;
+	position: relative;
+	padding-bottom: 20px;
+	width: 150px;
+	height: 20px;
+	/*border: dashed 1px black;*/
+	text-align: center;
+	font-size: 18px;
+}
+
+/*.logo_imagen{
+	margin:0px 10px 0px 10px;*/
+
+
+.hr-center{
+	width: 50%;
+}
+
+.t-quienes-somos{
+	/*margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;*/
+	padding-left: 140px;
+	padding-right: 140px;
+	font-size: 32px;
+
+}
+
+.p-centrado{
+	margin: 30px 100px;
+	text-align: center;
+	font-size: 15px;
+
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+margin-top:20px; 
+margin-bottom: 20px;
+}
+
+/*CSS GALERIA*/
+.galeria{
+	margin: 0px 120px;
+}
+.contenedores{
+	margin: auto;
+}
+.inline{ 
+	display: inline-block;
+	position: relative;
+	margin: 10px;
+	width: 211px;
+	height: 211px;
+}
+
+.nombre{
+	font-family: courier;
+	font-size: 13px;
+	color: white;
+	padding: 10px;
+	position:absolute;
+	}
+
+.n-arriba{
+	top: 175px;
+	right: 0px;
+}
+
+.n-abajo{
+	bottom: 0px;
+	right: 0px;
+}
+
+
+.nombresabajo{
+	font-family: courier;
+	font-size: 13px;
+	color: white;
+	padding: 10px;
+	position:absolute;
+	
+	 }
+
+.hrgaleria{
+	width: 20%;
+	align: center;
+	margin: 0px;
+}
+
+.hrcenter{
+	width: 20%;
+	margin: 10px 370px;
+	/*padding: 100px;*/
+}
+
+.borde{
+	border: solid 1px gray;
+}
+
+.redondeado{
+	margin: 30px 360px;
+	border-radius: 100px;
+}
+/*HABILIDADES RECTANGULOS*/
+h3{
+	margin: 20px 0px 20px 0px;
+}
+
+.rect-habil{
+	background-color: gray;
+	height: 50px;
+	margin: 10px 0px 10px 50px;
+	padding: 17px;
+	color: white;
+}
+
+.HTML{
+	width: 700px;
+}
+.CSS{
+	width: 400px;
+}
+.JS{
+	width: 250px;
+}
+
+.portafolio{
+	width: 250px;
+	height: 150px;
+}
+
+.divportafolio{
+	margin-left: 40px;
+}
+
+
+/*div{
+	border: dashed 1px black;
+}*/
